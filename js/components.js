@@ -11,9 +11,9 @@ const NAV_HTML = `
   </button>
   <ul class="nav-links" id="nav-links">
     <li><a href="/material.html" class="nav-link" data-page="material">The Material</a></li>
-    <li><a href="/products.html" class="nav-link" data-page="products">Samples</a></li>
-    <li><a href="/partners.html" class="nav-link" data-page="partners">Work With Us</a></li>
     <li><a href="/certifications.html" class="nav-link" data-page="certifications">Certifications</a></li>
+    <li><a href="/partners.html" class="nav-link" data-page="partners">Work With Us</a></li>
+    <li><a href="/products.html" class="nav-link" data-page="products">Samples</a></li>
     <li><a href="/about.html" class="nav-link" data-page="about">About</a></li>
     <li><a href="/contact.html" class="nav-cta">Get in Touch</a></li>
   </ul>
