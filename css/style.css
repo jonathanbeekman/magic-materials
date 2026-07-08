@@ -170,6 +170,7 @@ p  { color: var(--mid); }
   letter-spacing: .02em;
 }
 .nav-logo span { color: var(--seafoam); }
+.nav-logo-img { height: 36px; width: auto; display: block; }
 .nav-links {
   display: flex;
   align-items: center;

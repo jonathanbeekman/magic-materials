@@ -5,7 +5,7 @@
 
 const NAV_HTML = `
 <div class="nav-inner">
-  <a href="/index.html" class="nav-logo">Magic <span>Materials</span></a>
+  <a href="/index.html" class="nav-logo"><img src="/img/logo.svg" alt="Magic Materials" class="nav-logo-img"></a>
   <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">
     <span></span><span></span><span></span>
   </button>
